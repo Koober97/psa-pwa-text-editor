@@ -17,7 +17,7 @@
 
 ## Screenshot of Deployed Site
 
-- ![Sample of Deployed Application](psa-pwa.png)
+![Sample of Deployed Application](psa-pwa.png)
 
 ## Deployed Link
 
